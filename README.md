@@ -1,5 +1,5 @@
 # REPOSITORIO DE TESTE 
 
-![./tiefighter.jpg](TIE FIGHTER)
+![](./tiefighter.jpg)
 
 Repositório de exemplo par ao curso de GIT e GITHUB.
