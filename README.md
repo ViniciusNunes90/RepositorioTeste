@@ -2,4 +2,4 @@
 
 ![](./tiefighter.jpg)
 
-Repositório de exemplo par ao curso de GIT e GITHUB.
+Repositório de exemplo para o curso de GIT e GITHUB.
